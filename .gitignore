@@ -18,7 +18,28 @@ project.lock.json
 /App_Data
 /secrets
 /data
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+.venv
 .secrets
+ENV/
+
+# Azure Functions local settings
+local.settings.json
+
+# OS
+.DS_Store
+Thumbs.db
 appsettings.json
 local.settings.json
 
