@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Generador de Propuestas Técnicas con Azure Functions
 
 Este proyecto es una Azure Function App en Python que automatiza la generación de documentos Word de propuestas técnicas, integrando Azure OpenAI y Azure Blob Storage. Permite recibir un prompt con información del proyecto y devuelve un documento Word personalizado, almacenado y accesible mediante una URL segura.
@@ -100,3 +101,7 @@ Desarrollado por el equipo de HITSS.
 ---
 
 ¿Dudas o sugerencias? Abre un issue o contacta al responsable
+=======
+# propIA
+funcion en azure para hacer propuestas de word a partir de un prompt y una plantilla
+>>>>>>> 4192219be23d5e18c1e33ec346fcadbe87431ef9
